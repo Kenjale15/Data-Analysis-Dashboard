@@ -25,3 +25,6 @@ Tools Used:
 
 ## Dashboard
 ![Sales dashboard screenshot](https://github.com/user-attachments/assets/a6aa600c-9429-4280-815f-98a68bb78f83)
+
+## Conclusion
+This project allowed me to gain hands-on experience with Excel and understand the fundamentals of data analysis and dashboard creation. While the dataset was simulated and did not yield deep business insights, building the dashboard helped me practice using PivotTables, slicers, dynamic charts, and visual storytelling. It served as a foundation for future, more advanced projects where I aim to work with real-world datasets and uncover actionable insights. This first step has boosted my confidence in working with data and Excel as a tool for analytics.
