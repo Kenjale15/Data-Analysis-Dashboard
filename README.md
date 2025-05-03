@@ -5,5 +5,5 @@ The objective of this project is to design an interactive Sales Dashboard using 
 ## Dataset used
 
 You can find the dataset used in this project [here]  
-- <a herf ="https://github.com/Kenjale15/Data-Analysis-Dashboard/blob/main/Sample_Sales_Data.xlsx">Dataset </a>
+- <a href ="https://github.com/Kenjale15/Data-Analysis-Dashboard/blob/main/Sample_Sales_Data.xlsx">Dataset </a>
 
