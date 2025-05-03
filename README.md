@@ -24,3 +24,4 @@ Tools Used:
 - Dashboard Design
 
 ## Dashboard
+![Sales dashboard screenshot](https://github.com/user-attachments/assets/a6aa600c-9429-4280-815f-98a68bb78f83)
